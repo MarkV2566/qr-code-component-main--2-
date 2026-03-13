@@ -1,0 +1,35 @@
+#background {
+background-color: hsl(212, 45%, 89%);
+}
+
+#container {
+margin: auto;
+text-align: center;
+background-color: white;
+width: 300px;
+}
+
+img {
+padding-top: 20px;
+padding-bottom: 20px;
+max-width: 90%;
+}
+
+#p1 {
+font-size: 18px;
+color: hsl(218, 44%, 22%);
+}
+
+#p2 {
+font-size: 14px;
+color: hsl(216, 15%, 48%);
+}
+
+.outfit-para {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400, 700;
+  font-style: normal;
+  padding-left: 15px;
+  padding-right: 15px;
+}
